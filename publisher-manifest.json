@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "b6181d737d21fb12506f9fed",
+  "owner": "peyrdlgj",
+  "repo": "page-8424dd0525e9fef30e57e5cc",
+  "title": "OKANC加速(OKANC)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8424dd0525e9fef30e57e5cc",
+      "a": "OKANC加速(OKANC)",
+      "b": "机场官网线路发布页",
+      "entity": "OKANC加速(OKANC)",
+      "brand": "OKANC加速(OKANC)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "8f79dc87be253f0f9b3f20b282bf8ea420e419c3b7e38c8bcbe527ac7a59c774",
+      "content": {
+        "primary_entity": "OKANC加速(OKANC)",
+        "keyword1": "OKANC加速(OKANC)",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，Windows、macOS、Android、iOS 与路由器各有适配方案，订阅导入方式依客户端文档操作。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "按设备数量与月流量选定套餐，再依客户端文档导入订阅。",
+          "AI_CLOSING_TITLE": "选对套餐，连上再出发",
+          "AI_DESCRIPTION": "，OKANC加速提供基础版、旗舰版与团队版三档订阅，月付从 ¥15 到 ¥85，年付分别约 ¥150、¥350、¥850。基础版适合单人轻量使用，旗舰版增加 IPLC 专线游戏加速优化与 7x24 优先工单支持，团队版面向多设备与高带宽场景。选择时先估算常用设备数量与每月流量，再对照套餐权益决定周期。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、支持 3 台设备，适合手机与笔记本轻度使用。若常看高清流媒体或有多台设备，旗舰版每月 300GB、支持 5 台设备更宽裕。",
+          "AI_FAQ_ANSWER_2": "可以。基础版为普通线路节点池，旗舰版含 IPLC 专线游戏加速优化，团队版提供 VIP 专属高带宽节点，可按游戏或办公侧重选择。",
+          "AI_FAQ_ANSWER_3": "年付通常比月付更划算，例如基础版年付 ¥150，旗舰版 ¥350，团队版 ¥850。若使用周期不确定，先选月付再按需调整。",
+          "AI_FAQ_ANSWER_4": "先确认设备系统，Windows、macOS、Android、iOS 与路由器各有对应客户端。按客户端文档提供的订阅导入方式操作，同一账号在线设备数受套餐限制。",
+          "AI_FAQ_ANSWER_5": "团队版支持 20 台设备同时在线，提供 VIP 专属高带宽节点，并支持企业定制路由，适合小团队或工作室统一使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版该怎么选？",
+          "AI_FAQ_QUESTION_2": "不同套餐的线路有区别吗？",
+          "AI_FAQ_QUESTION_3": "月付和年付哪个更合适？",
+          "AI_FAQ_QUESTION_4": "第一次使用需要做什么？",
+          "AI_FAQ_QUESTION_5": "团队版适合哪些场景？",
+          "AI_FAQ_TITLE": "套餐选择常见问答",
+          "AI_FEATURES_INTRO": "从设备数量、流量需求与订阅周期三个角度对比套餐，快速定位适合的档位。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版适合 1 至 3 台设备，旗舰版覆盖 5 台，团队版可支持 20 台同时在线。",
+          "AI_FEATURE_TITLE_1": "按设备数量选",
+          "AI_FEATURE_TEXT_2": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB，按日常用量匹配即可。",
+          "AI_FEATURE_TITLE_2": "按每月流量选",
+          "AI_FEATURE_TEXT_3": "三档均提供年付价格，使用周期稳定时年付更省，试用期短则先选月付。",
+          "AI_FEATURE_TITLE_3": "按订阅周期选",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到连接使用，每一步都有明确依据。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "OKANC加速提供多档海外网络加速订阅，覆盖日常浏览、流媒体与游戏加速场景。基础版、旗舰版与团队版在流量、设备数与线路类型上各有侧重，按需要挑选即可。",
+          "AI_HERO_SUBTITLE": "多档订阅，按需选配",
+          "AI_HIGHLIGHT_1": "三档套餐，月付年付灵活组合",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线游戏优化",
+          "AI_HIGHLIGHT_3": "按设备数量与流量匹配档位",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，年付分别约 ¥150、¥350、¥850，按流量与设备数选择。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_STEP_TEXT_1": "依据常用设备数量与每月流量，在基础版、旗舰版、团队版中选定一档并确认周期。",
+          "AI_STEP_TEXT_2": "核对手机、电脑或路由器是否满足套餐的设备数量与流量要求，再决定是否升级。",
+          "AI_STEP_TEXT_3": "按对应客户端的订阅导入说明完成配置，保持同一账号在线设备数不超过套餐上限。",
+          "AI_STEP_TITLE_1": "选择合适套餐",
+          "AI_STEP_TITLE_2": "查看设备适配要求",
+          "AI_STEP_TITLE_3": "依客户端配置订阅",
+          "AI_VISUAL_TITLE": "OKANC加速套餐一览"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "dk1t2.cn",
+    "host": "dk1t2.cn"
+  },
+  "file_hashes": {
+    "index.html": "b326d10e15fb518a10e716763de6f45e58d4975d0b5a896aabd4df858c2083dd",
+    "sitemap.xml": "1c4ca308c4688f90ed57970ce155224db0ffa5f7db8ef8c6c3de107459ea8398",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "51455ed04924cc25768bad1a6ff7699abe42a15e9184c673103e4150b3cbac68",
+    "robots.txt": "c077e1329c13c374bb4462783076758732f76db9373ac396db37ff5c3a549aca",
+    "a535174024f8eb41fe1354fe70baecc4.txt": "0c99c20881132e379a2cac86666c1535ba0e66966f6539abe27eb5f6800dc528"
+  },
+  "revision": "30d784b63c87c886dfb18c4f445c4e8e27fce17210db97ccb51a5373055cdc69"
+}
